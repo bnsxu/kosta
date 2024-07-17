@@ -1,0 +1,9 @@
+class  DeptDAO
+{
+	 public void insert(){
+        System.out.println("회원추가");
+    }
+    public void update(){
+        System.out.println("회원수정");
+    }
+}
